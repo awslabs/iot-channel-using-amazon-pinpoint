@@ -51,6 +51,11 @@ aws s3 cp ./dist/ s3://my-bucket-name-<aws_region>/$SOLUTION_NAME/$VERSION/ --re
     |-IoTSegment.csv              [ Amazon Pinpoint IoT segment file for upload ]
 ```
 
+
+***
+ 
+This solution collects anonymous operational metrics to help AWS improve the quality of features of the solution. For more information, including how to disable this capability, please see the [Implementation Guide](https://docs.aws.amazon.com/solutions/latest/iot-channel-using-amazon-pinpoint/appendix.html).
+
 ***
 
 
