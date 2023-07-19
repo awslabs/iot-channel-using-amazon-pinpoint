@@ -1,3 +1,7 @@
+# Deprecation Notice
+
+This AWS Solution has been archived and is no longer maintained by AWS. To discover other solutions, please visit the [AWS Solutions Library](https://aws.amazon.com/solutions/).
+
 # IoT Channel Using Amazon Pinpoint
 This new AWS solution enables customers to send Pinpoint campaigns to device as a channel leveraging the IoT message broker.
 
